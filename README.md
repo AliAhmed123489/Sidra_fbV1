@@ -1,9 +1,9 @@
 # Sidra_fbV1
 Crack Facebook Pakistan 2021
 
-#Installation
+🔖Installation
 
-Using Termux
+🏷Using Termux↓↓
 
 
 $ apt update
@@ -24,12 +24,11 @@ $ git clone https://github.com/SidraELEzz/Sidra_fbV1
 
 $ python2 Sidra.py
 
-
-#next
+…………………………………………………………………………………………
 
 📋 Tool Username and🔑Tool Password
 
-#Follow my channel on Telegram
+🏷Follow my channel on Telegram↓↓
 
 https://t.me/TT_RQ
 
