@@ -1,26 +1,35 @@
-# Sidra_fbV1
-A new clone of Facebook Arab countries without a checkpoint
+<h1 align="center">Sidra_fbV1</h1>
+<p align="center">A new clone of Facebook Arab countries without a checkpoint</p>
 
-using Termux
 
-apt update
+## Installation :
+```
+$ apt update
+$ apt upgrade -y
+$ pkg install python
+$ pkg install python2 -y
+$ pkg install git
+$ pip2 install requests
+$ pip2 install mechanize
+$ pip install lolcat
+$ git clone https://github.com/SidraELEzz/Sidra_fbV1
+```
 
- apt upgrade -y
+## Tools Run :
+```
+$ ls && cd Sidra_fbV1 && ls
+```
 
- apt install git -y
+## Usage :
+```
+ $ python2 Sidra.py
+```
 
- pkg install python
+## ***Follow Me***
 
- pkg install python2 -y
+* Telegram : [Follow Me](https://www.facebook.com/X4V1D)
+* Youtube. : [Follow Me](https://youtube.com/channel/UCzFviFYCOJI4IwhdVOQTqIw)
 
- pip2 install requests
+### Warning
 
- pip2 install mechanize
-
- pip install lolcat
-
- git clone https://github.com/SidraELEzz/Sidra_fbV1
-
- cd Sidra_fbV1
-
- python2 Sidra.py
+***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
