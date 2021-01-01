@@ -6,7 +6,8 @@
 
 ## Installation :
 ```
-using in the Termux↓↓
+usuing in the TERMUX↓↓
+
 $ apt update
 $ apt upgrade -y
 $ pkg install python
@@ -28,14 +29,16 @@ $ ls && cd Sidra_fbV1 && ls
  $ python2 Sidra.py
 ```
 ##Tool key:
+```
 $ Tool Username »»@TT_RQ
 
 $ Tool   Password»»@SS_SS_1
 ```
 ### Screenshot
+```
 ![Screenshot_2021-01-01-11-03-27](https://raw.githubusercontent.com/SidraELEzz/Sidra_fbV1/main/Screenshot_2021-01-01-11-03-27.png)
 ```
-## ***Follow Me***
+## ***Follow Me**
 * Telegram : [Follow Me](https://t.me/TT_RQ)
 * Youtube. : [Follow Me](https://youtube.com/channel/UCzFviFYCOJI4IwhdVOQTqIw)
 
