@@ -36,7 +36,4 @@ $ ls && cd Sidra_fbV1 && ls
 ***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 
 ### Screenshot
-<br>
-<p align="center">
-<img Screenshot_2021-01-01-11-03-27.png"/>
-</p>
+![Screenshot_2021-01-01-11-03-27.png]
