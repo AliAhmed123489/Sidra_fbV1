@@ -35,6 +35,5 @@ $ ls && cd Sidra_fbV1 && ls
 
 ***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 
-### Screenshot
-![Screenshot_2021-01-01-11-03-27.](https://user-images.githubusercontent.com/32659320/52474788-05ac2000-2bcc-11e9-9833-937c66196132.png)
+
 
