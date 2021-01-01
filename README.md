@@ -38,5 +38,5 @@ $ ls && cd Sidra_fbV1 && ls
 ### Screenshot
 <br>
 <p align="center">
-<img Sidra_fbV1="Sidra_fbV1/Screenshot_2021-01-01-11-03-27.png"/>
+<img Screenshot_2021-01-01-11-03-27.png"/>
 </p>
