@@ -33,11 +33,12 @@ $ Tool Username »»@TT_RQ
 
 $ Tool Password»»@SS_SS_1
 ```
-## ***Follow Me**
+## ***Follow Me***
 * Telegram : [Follow Me](https://t.me/TT_RQ)
 * Youtube. : [Follow Me](https://youtube.com/channel/UCzFviFYCOJI4IwhdVOQTqIw)
 
 ### Warning
+🖊Written by Sidra Al-Ezz↓↓
 
 ***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 
