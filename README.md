@@ -38,10 +38,10 @@ $ Tool Password»»@SS_SS_1
 * Youtube. : [Follow Me](https://youtube.com/channel/UCzFviFYCOJI4IwhdVOQTqIw)
 
 ### Warning
-Written by Sidra Al-Ezz
 
-***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
-🖊Written by Sidra ELEzz.***
+
+***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible
+ in such cases🖊Written by Sidra ELEzz.***
 
 ### Screenshot
 ![Screenshot_2021-01-01-11-03-27](https://raw.githubusercontent.com/SidraELEzz/Sidra_fbV1/main/Screenshot_2021-01-01-11-03-27.png)
