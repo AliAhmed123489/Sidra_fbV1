@@ -1,6 +1,9 @@
 <h1 align="center">Sidra_fbV1</h1>
 <p align="center">A new clone of Facebook Arab countries without a checkpoint</p>
 
+## About X4-FB Checker:
+
+X4-FB Checker is a php based script. You can use this tool for check mass facebook account. This tool works on any Android devices.
 
 ## Installation :
 ```
@@ -27,7 +30,7 @@ $ ls && cd Sidra_fbV1 && ls
 
 ## ***Follow Me***
 
-* Telegram : [Follow Me](https://www.facebook.com/X4V1D)
+* Telegram : [Follow Me](https://t.me/TT_RQ)
 * Youtube. : [Follow Me](https://youtube.com/channel/UCzFviFYCOJI4IwhdVOQTqIw)
 
 ### Warning
